@@ -1,0 +1,14 @@
+[build]
+  publish = "client/dist"
+  command = "cd client && npm install && npm run build"
+
+[build.environment]
+  # Set this in Netlify dashboard: Site settings > Environment variables
+  # VITE_API_URL = "https://ai-community-site.onrender.com/api"
+  NODE_VERSION = "18"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
