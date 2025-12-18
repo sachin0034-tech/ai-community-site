@@ -26,7 +26,7 @@ export default defineConfig({
     },
     proxy: {
       '/api': {
-        target: 'https://maheshaicommunity.onrender.com',
+        target: 'https://ai-community-site.onrender.com',
         changeOrigin: true,
         secure: false,
       },
