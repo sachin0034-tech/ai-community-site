@@ -1,6 +1,6 @@
 [build]
-  publish = "client/dist"
-  command = "cd client && npm install && npm run build"
+  publish = "dist"
+  command = "npm install && npm run build"
 
 [build.environment]
   # Set this in Netlify dashboard: Site settings > Environment variables
