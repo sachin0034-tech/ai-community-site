@@ -35,7 +35,7 @@ export const WhyChooseUs = (): JSX.Element => {
               <CardContent className="p-0">
                 <div className="w-full h-full min-h-[350px] lg:min-h-[500px] rounded-3xl overflow-hidden">
                   <img
-                    src="/figmaAssets/image-6.jpg"
+                    src="/figmaAssets/bootcampwhychooseus.jpg"
                     alt="Why Choose Us"
                     className="w-full h-full object-cover rounded-3xl"
                   />
