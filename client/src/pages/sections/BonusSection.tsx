@@ -24,6 +24,16 @@ export const BonusSection = (): JSX.Element => {
       description:
         "Give students an idea of how they can expect to grow throughout your course. Include specificity and precise results so students can benchmark exactly what they'll learn.",
     },
+    {
+      title: "Roadmap & Prioritization: Drive AI product decisions with RICE and impact frameworks",
+      description:
+        "Give students an idea of how they can expect to grow throughout your course. Include specificity and precise results so students can benchmark exactly what they'll learn.",
+    },
+    {
+      title: "Stakeholder Communication: Present AI strategies to executives and cross-functional teams",
+      description:
+        "Give students an idea of how they can expect to grow throughout your course. Include specificity and precise results so students can benchmark exactly what they'll learn.",
+    },
   ];
 
   return (
