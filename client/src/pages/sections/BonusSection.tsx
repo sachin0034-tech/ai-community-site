@@ -24,6 +24,16 @@ export const BonusSection = (): JSX.Element => {
       description:
         "Give students an idea of how they can expect to grow throughout your course. Include specificity and precise results so students can benchmark exactly what they'll learn.",
     },
+    {
+      title: "AI Product Roadmapping: Prioritize features and ship with confidence",
+      description:
+        "Give students an idea of how they can expect to grow throughout your course. Include specificity and precise results so students can benchmark exactly what they'll learn.",
+    },
+    {
+      title: "Metrics & Evaluation: Define success for AI-powered products",
+      description:
+        "Give students an idea of how they can expect to grow throughout your course. Include specificity and precise results so students can benchmark exactly what they'll learn.",
+    },
   ];
 
   return (
