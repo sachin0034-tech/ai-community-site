@@ -24,6 +24,16 @@ export const BonusSection = (): JSX.Element => {
       description:
         "Give students an idea of how they can expect to grow throughout your course. Include specificity and precise results so students can benchmark exactly what they'll learn.",
     },
+    {
+      title: "Stakeholder Communication: Align cross-functional teams on AI product decisions",
+      description:
+        "Learn how to present AI capabilities, limitations, and roadmap tradeoffs to engineering, design, and business stakeholders—so you can lead with clarity and earn trust in any AI PM role.",
+    },
+    {
+      title: "Metrics & Evaluation: Define success for AI-powered products",
+      description:
+        "Master the frameworks for setting north-star metrics, guardrail metrics, and evaluation criteria specific to AI products—so you can demonstrate rigorous product thinking in interviews and on the job.",
+    },
   ];
 
   return (
