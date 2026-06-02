@@ -24,6 +24,16 @@ export const BonusSection = (): JSX.Element => {
       description:
         "Give students an idea of how they can expect to grow throughout your course. Include specificity and precise results so students can benchmark exactly what they'll learn.",
     },
+    {
+      title: "AI Product Metrics: Define, measure, and communicate impact like a pro",
+      description:
+        "Learn how to identify the right success metrics for AI-powered features, set up evaluation frameworks, and present data-driven outcomes that resonate with stakeholders and interviewers alike.",
+    },
+    {
+      title: "Roadmap & Prioritization in the AI Era: Ship the right things, faster",
+      description:
+        "Master frameworks for prioritizing AI initiatives alongside core product work, balancing experimentation with delivery, and building roadmaps that account for model limitations and evolving capabilities.",
+    },
   ];
 
   return (
