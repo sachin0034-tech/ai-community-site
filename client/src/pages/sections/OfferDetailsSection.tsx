@@ -38,6 +38,14 @@ export const OfferDetailsSection = (): JSX.Element => {
       title:
         "The exact prep systems Mahesh used to crack AI PM roles at Meta, Google, and AWS.",
     },
+    {
+      title:
+        "How to evaluate, test, and iterate on AI models and agentic workflows the way product teams at top AI companies do.",
+    },
+    {
+      title:
+        "Confidence frameworks for live AI PM system design rounds, including how to scope and present GenAI product solutions.",
+    },
   ];
 
   return (
