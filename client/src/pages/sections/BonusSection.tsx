@@ -24,6 +24,16 @@ export const BonusSection = (): JSX.Element => {
       description:
         "Give students an idea of how they can expect to grow throughout your course. Include specificity and precise results so students can benchmark exactly what they'll learn.",
     },
+    {
+      title: "Storytelling & Positioning: Craft a compelling AI PM narrative that lands",
+      description:
+        "Learn how to frame your experience, projects, and accomplishments into sharp, memorable stories that resonate with AI-first hiring managers and pass today's screening filters.",
+    },
+    {
+      title: "Offer Negotiation & Career Strategy: Land the role and own your trajectory",
+      description:
+        "Get proven frameworks for evaluating offers, negotiating compensation at AI companies, and building a long-term career strategy in the rapidly evolving AI product landscape.",
+    },
   ];
 
   return (
