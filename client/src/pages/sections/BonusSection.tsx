@@ -24,6 +24,16 @@ export const BonusSection = (): JSX.Element => {
       description:
         "Give students an idea of how they can expect to grow throughout your course. Include specificity and precise results so students can benchmark exactly what they'll learn.",
     },
+    {
+      title: "Mock Interviews & Feedback: Practice with real AI product leaders before the real thing",
+      description:
+        "Give students an idea of how they can expect to grow throughout your course. Include specificity and precise results so students can benchmark exactly what they'll learn.",
+    },
+    {
+      title: "Networking & Job Search Strategy: Build connections that turn into offers",
+      description:
+        "Give students an idea of how they can expect to grow throughout your course. Include specificity and precise results so students can benchmark exactly what they'll learn.",
+    },
   ];
 
   return (
