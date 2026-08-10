@@ -1,4 +1,4 @@
-# Maven Site - AI Community Platform
+# Maven Site - AI Community Platform- Test
 
 A full-stack web application for an AI community platform with admin authentication system.
 
